@@ -33,6 +33,7 @@ body{
 .btn, input{
     height:35px;
     padding: 0 1em;
+    font-family: sans-serif;
 
 }
 .container{
